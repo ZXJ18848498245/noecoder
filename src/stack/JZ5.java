@@ -1,4 +1,4 @@
-package string;
+package stack;
 
 import java.util.Stack;
 //使用两个栈模拟队列操作
